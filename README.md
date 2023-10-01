@@ -6,7 +6,7 @@ The objective of this project is to analyze the provided Netflix dataset and gen
 
 ## Dataset
 
-You can access the dataset [here](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv).
+You can access the dataset [here](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/000/940/original/netflix.csv). Also you can find the csv file in the repo. 
 
 
 The dataset includes information about TV shows and movies available on Netflix, with key attributes:
